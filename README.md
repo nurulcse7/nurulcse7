@@ -4,7 +4,7 @@
 #### I am Full Stack Web Developer
 
 
-I’m a Full stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created the 50s of websites for my project and clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with JavaScript, ReactJS, and NextJS, but some technologies I enjoy working with include Python, Django as well as PHP, and MySQL.
+I’m a Full stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created the 10s of websites for my project and clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with JavaScript, ReactJS, and NextJS, but some technologies I enjoy working with include Python, Django as well as PHP, and MySQL.
 
 Skills: HTML,  CSS,   JavaScript,   TypeScript,    Bootstrap,  Tailwind,  ReactJS,  ReactBootstrap,  React Query,  Next JS,  Material UI,  daisyUI, ReactNative, Node JS, Express JS, Axios, MongoDB, JWT, Nodemailer, SendGrid, mailgun, Stripe JS, Redux, API.
 
