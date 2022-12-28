@@ -1,7 +1,7 @@
-![I am Full Stack Web Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/297547185_131652762909331_1803168676760227836_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF48SmbH9vUgyYD1AlDY9sa_F0_wmPyK0j8XT_CY_IrSApz17w-EleMEo6sO206E6ZIdUmv2RCAAmq9gWmtLQ7t&_nc_ohc=A-BuRIgFoRkAX__KM0T&_nc_ht=scontent.fdac5-2.fna&oh=00_AT-KB-M0aMt2RTijWg7-LinGNRBRCbFAGrXCV9DKYVINJw&oe=62F73A6F)
+## Welcome to my GitHub profile
 
-### Hi there 👋, my name is Nurul Islam
-#### I am Full Stack Web Developer
+### Hi there 👋, 
+### My name is Nurul Islam
 
 
 I’m a Full stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created the 10s of websites for my project and clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with JavaScript, ReactJS, and NextJS, but some technologies I enjoy working with include Python, Django as well as PHP, and MySQL.
