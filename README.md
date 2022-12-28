@@ -1,6 +1,9 @@
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 ## Welcome to my GitHub profile
 
-### Hi there 👋, 
+<h1>Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px"></h1> 
 ### My name is Nurul Islam
 
 
