@@ -8,6 +8,7 @@ I’m a Full stack Web developer who is passionate about making error-free websi
 
 Skills: HTML,  CSS,   JavaScript,   TypeScript,    Bootstrap,  Tailwind,  ReactJS,  ReactBootstrap,  React Query,  Next JS,  Material UI,  daisyUI, ReactNative, Node JS, Express JS, Axios, MongoDB, JWT, Nodemailer, SendGrid, mailgun, Stripe JS, Redux, API.
 
+:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 - 🔭 I’m currently working on Move Fast 
 - 🌱 I’m currently learning Python with Django, MySQL 
 - 👯 I’m looking to collaborate on GitHub 
