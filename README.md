@@ -3,9 +3,9 @@
 
 ## Welcome to my GitHub profile
 
-<h1>Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px"></h1> 
-### My name is Nurul Islam
+<h1>Hi there<img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px"></h1>
 
+### My name is Nurul Islam
 
 I’m a Full stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created the 10s of websites for my project and clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with JavaScript, ReactJS, and NextJS, but some technologies I enjoy working with include Python, Django as well as PHP, and MySQL.
 
